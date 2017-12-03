@@ -1,0 +1,2 @@
+# edhec
+School Project
